@@ -57,7 +57,7 @@ RPA从业5年， 本项目用于记录及分享RPA领域相关知识。期望让
 
 
 
-1. [HelloRPA - 常见术语和概念](./doc/HelloRPA - 常见术语和概念.md) - 100%
+1. [HelloRPA - 常见术语和概念](./doc/HelloRPA - 常见术语和概念.md)- 100%
 2. [HelloRPA - RPA厂商](./doc/HelloRPA - RPA厂商.md) - 100%
 3. HelloRPA - RPA+AI
 4. [HelloRPA - RPA项目管理](./doc/HelloRPA - RPA项目管理.md) - 100%
