@@ -61,7 +61,7 @@ RPA从业5年， 本项目用于记录及分享RPA领域相关知识。期望让
 2. [HelloRPA-RPA厂商](doc/HelloRPA-RPA厂商.md) - 100%
 3. HelloRPA-RPA+AI - 0%
 4. [HelloRPA-RPA项目管理](/doc/HelloRPA-RPA项目管理.md) - 100%
-5. [HelloRPA-RPA 流程定义文档 (PDD) 模板](/doc/HelloRPA-RPA 流程定义文档 (PDD) 模板.md) - 100%
+5. [HelloRPA-RPA流程定义文档 (PDD) 模板](/doc/HelloRPA-RPA流程定义文档 (PDD) 模板.md) - 100%
 
 5. [HelloRPA-RPA解决方案之验证码](/doc/HelloRPA-RPA解决方案之验证码.md) - 100%
 6. HelloRPA-RPA解决方案之HR - 0%
